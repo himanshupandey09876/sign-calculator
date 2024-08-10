@@ -1,4 +1,4 @@
-* Made in Windows-10
+* Made in Windows-10 
 * Version of python used: Python 3.12.3
 * Currently there is ***no open-source project of sign calculator. This is first of it's kind.***
 * Please enable internet access so that the images in the notebook can load properly.
