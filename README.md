@@ -15,7 +15,7 @@ I have developed an innovative sign calculator that utilizes hand gestures to in
 
 ### A Demo of the APP in Action  
 
-<img src="https://raw.githubusercontent.com/souvikcseiitk/sign-calculator/main/extras/demo.gif" alt="Animation" width="600" height="338" />
+<img src="https://raw.githubusercontent.com/himanshupandey09876/sign-calculator/main/extras/signDemovid.gif" alt="Animation" width="600" height="338" />
 
 
 ### My Project is on PS No. 4: Enhancing Accessibility for Students with Disabilities
@@ -26,7 +26,7 @@ In addressing the issue that not all learning materials are accessible to studen
 This sign calculator project can significantly enhance accessibility for individuals with disabilities by providing an intuitive and interactive way to perform mathematical operations. For those with limited mobility or dexterity, traditional input methods such as keyboards and touchscreens can be challenging. This project allows users to input numbers and operators through hand signs, which can be especially beneficial for individuals with motor impairments. By leveraging sign language and hand gestures, users can interact with the calculator more comfortably and efficiently, reducing the physical strain of conventional input methods. Additionally, the visual feedback and real-time evaluation of expressions ensure a seamless and user-friendly experience, making technology more inclusive and accessible for everyone.
 
 ### Signs and their meanings
-<img src="https://raw.githubusercontent.com/souvikcseiitk/sign-calculator/main/extras/signs%20meaning.png" alt="Animation" width="600" height="338" />
+<img src="https://raw.githubusercontent.com/himanshupandey09876/sign-calculator/main/extras/signs%20meaning.png" alt="Animation" width="600" height="338" />
 
 ## Key Features
 1. **Hand Sign Input**: The calculator takes numerical digits (0-5) and arithmetic operators (+, -, *, /) as inputs through hand signs.
@@ -67,7 +67,7 @@ The model is trained using the categorical cross-entropy loss function and the A
 The trained model is evaluated on a test dataset to assess its accuracy and generalization capability. The accuracy score provides an indication of the model’s performance on unseen data.
 
 ### Handling Wrong/Invalid Expressions   
-<img src= "https://raw.githubusercontent.com/souvikcseiitk/sign-calculator/main/extras/demo_fail.gif" alt="Animation" width="600" height="338" />
+Handles Wrong/Invalid Expressions
 
 ### Deployment
 The real-time deployment involves capturing hand signs through the webcam. The captured frames are processed and fed into the trained model to predict the corresponding digit or operator. The predictions are accumulated to form a mathematical expression, which is evaluated and displayed when the webcam capture is halted.
@@ -84,4 +84,4 @@ This sign calculator project demonstrates the practical application of CNNs in r
 
 # Open the main ipynb using this link (If Github Fails to open properly)
 
-https://nbviewer.org/github/souvikcseiitk/sign-calculator/blob/main/0_main.ipynb
+https://nbviewer.org/github/himanshupandey09876/sign-calculator/blob/main/0_main.ipynb
